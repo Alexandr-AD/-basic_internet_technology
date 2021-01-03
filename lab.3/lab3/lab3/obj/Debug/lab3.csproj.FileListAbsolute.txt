@@ -1,0 +1,14 @@
+E:\Учеба\3 СЕМЕСТР\БКИТ\Лабы\lab.3\lab3\lab3\bin\Debug\lab3.exe.config
+E:\Учеба\3 СЕМЕСТР\БКИТ\Лабы\lab.3\lab3\lab3\bin\Debug\lab3.exe
+E:\Учеба\3 СЕМЕСТР\БКИТ\Лабы\lab.3\lab3\lab3\bin\Debug\lab3.pdb
+E:\Учеба\3 СЕМЕСТР\БКИТ\Лабы\lab.3\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+E:\Учеба\3 СЕМЕСТР\БКИТ\Лабы\lab.3\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+E:\Учеба\3 СЕМЕСТР\БКИТ\Лабы\lab.3\lab3\lab3\obj\Debug\lab3.exe
+E:\Учеба\3 СЕМЕСТР\БКИТ\Лабы\lab.3\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\79772\Desktop\3 сем\БКИТ\Лабы\lab.3\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\79772\Desktop\3 сем\БКИТ\Лабы\lab.3\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\79772\Desktop\3 сем\БКИТ\Лабы\lab.3\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\79772\Desktop\3 сем\БКИТ\Лабы\lab.3\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\79772\Desktop\3 сем\БКИТ\Лабы\lab.3\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\79772\Desktop\3 сем\БКИТ\Лабы\lab.3\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\79772\Desktop\3 сем\БКИТ\Лабы\lab.3\lab3\lab3\obj\Debug\lab3.pdb
