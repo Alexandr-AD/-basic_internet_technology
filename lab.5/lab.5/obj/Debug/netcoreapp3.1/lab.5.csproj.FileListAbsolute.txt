@@ -1,0 +1,13 @@
+C:\Users\79772\Desktop\3 сем\БКИТ\Лабы\lab.5\lab.5\bin\Debug\netcoreapp3.1\lab.5.exe
+C:\Users\79772\Desktop\3 сем\БКИТ\Лабы\lab.5\lab.5\bin\Debug\netcoreapp3.1\lab.5.deps.json
+C:\Users\79772\Desktop\3 сем\БКИТ\Лабы\lab.5\lab.5\bin\Debug\netcoreapp3.1\lab.5.runtimeconfig.json
+C:\Users\79772\Desktop\3 сем\БКИТ\Лабы\lab.5\lab.5\bin\Debug\netcoreapp3.1\lab.5.runtimeconfig.dev.json
+C:\Users\79772\Desktop\3 сем\БКИТ\Лабы\lab.5\lab.5\bin\Debug\netcoreapp3.1\lab.5.dll
+C:\Users\79772\Desktop\3 сем\БКИТ\Лабы\lab.5\lab.5\bin\Debug\netcoreapp3.1\lab.5.pdb
+C:\Users\79772\Desktop\3 сем\БКИТ\Лабы\lab.5\lab.5\obj\Debug\netcoreapp3.1\lab.5.csprojAssemblyReference.cache
+C:\Users\79772\Desktop\3 сем\БКИТ\Лабы\lab.5\lab.5\obj\Debug\netcoreapp3.1\lab.5.AssemblyInfoInputs.cache
+C:\Users\79772\Desktop\3 сем\БКИТ\Лабы\lab.5\lab.5\obj\Debug\netcoreapp3.1\lab.5.AssemblyInfo.cs
+C:\Users\79772\Desktop\3 сем\БКИТ\Лабы\lab.5\lab.5\obj\Debug\netcoreapp3.1\lab.5.csproj.CoreCompileInputs.cache
+C:\Users\79772\Desktop\3 сем\БКИТ\Лабы\lab.5\lab.5\obj\Debug\netcoreapp3.1\lab.5.dll
+C:\Users\79772\Desktop\3 сем\БКИТ\Лабы\lab.5\lab.5\obj\Debug\netcoreapp3.1\lab.5.pdb
+C:\Users\79772\Desktop\3 сем\БКИТ\Лабы\lab.5\lab.5\obj\Debug\netcoreapp3.1\lab.5.genruntimeconfig.cache
